@@ -1,0 +1,271 @@
+[{
+    _id: "55411786H",
+    especialidad: "Pediatra",
+    nombre: {
+        pila: "Luis", 
+        apellidos: ["Llamas","Arias"] 
+    },
+    trabajo: {
+        alta: ISODate("1990-12-14T00:00:00Z"),
+        hospital: "H0002", 
+        sala: ["201"],
+        turno: "M/T",
+        salario: 3250
+    }
+},
+{
+    _id: "34784143J",
+    especialidad: "Enfermero",
+    nombre: {
+        pila: "Juan", 
+        apellidos: ["Pérez","Pérez"] 
+    },
+    trabajo: {
+        alta: ISODate("2000-01-19T00:00:00Z"), 
+        hospital: "H0001", 
+        sala: ["201","202"],
+        turno: "M",
+        salario: 1500
+    }
+},
+{
+    _id:"73485699J",
+    especialidad: "Enfermera",
+    nombre: {
+        pila:"Ana", 
+        apellidos: ["Blanco","Amor"] 
+    },
+    trabajo: {
+        alta: ISODate("1999-05-19T00:00:00Z"), 
+        hospital: "H0001", 
+        sala: ["201"],
+        turno: "T",
+        salario: 1550
+    }
+},
+{
+    _id:"45328445J",
+    especialidad: "Enfermera",
+    nombre: {
+        pila: "Belén", 
+        apellidos:["Bande","Ruiz"] 
+    },
+    trabajo: {
+        alta: ISODate("1992-07-21T00:00:00Z"), 
+        hospital: "H0001",
+        sala: ["202"],
+        turno: "T",
+        salario: 1700
+    }
+},
+{
+    _id:"45235687G",
+    especialidad: "Enfermera",
+    nombre: {
+        pila:"María", 
+        apellidos:["Méndez","Sans"] 
+    },
+    trabajo:{
+        alta: ISODate("1997-06-19T00:00:00Z"), 
+        hospital: "H0003",
+        sala: ["201","202"],
+        turno: "M",
+        salario: 1640
+    }
+},{
+    _id: "48234848W",
+    especialidad: "Enfermera",
+    nombre: {
+        pila: "Jose", 
+        apellidos:["Martínez","Arias"] 
+    },
+    trabajo: {
+        alta: ISODate("1988-07-18T00:00:00Z"), 
+        hospital: "H0003", 
+        sala: ["202","203"],
+        turno: "M/T",
+        salario: 1900
+    }
+},
+{
+    _id: "91122154Y",
+    especialidad: "Enfermera",
+    nombre: {
+        pila: "María", 
+        apellidos: ["Pérez","López"] 
+    },
+    trabajo: { 
+        alta: ISODate("1990-04-04T00:00:00Z"), 
+        hospital: "H0003", 
+        sala: ["201","203"],
+        turno: "T",
+        salario: 1850
+    }
+},
+{
+    _id: "43122456H",
+    especialidad: "Cirujano",
+    nombre: {
+        pila: "Enrique", 
+        apellidos: ["Blas","Pérez"] 
+    },
+    trabajo: { 
+        alta: ISODate("1984-05-01T00:00:00Z"), 
+        hospital: "H0001", 
+        sala: ["101"],
+        turno: "M",
+        salario: 3000
+    }
+},
+{
+    _id: "42453245O",
+    especialidad: "Enfermero",
+    nombre: {
+        pila:"Adolfo", 
+        apellidos:["López","Miras"] 
+    },
+    trabajo: {
+        alta: ISODate("1990-06-01T00:00:00Z"), 
+        hospital: "H0001", 
+        sala: ["101","102"],
+        turno: "T",
+        salario: 1500
+    }
+},
+{
+    _id: "67666411H",
+    especialidad: "Enfermera",
+    nombre: {
+        pila:"María", 
+        apellidos:["Moldes","Pérez"] 
+    },
+    trabajo: {
+        alta: ISODate("1988-03-01T00:00:00Z"), 
+        hospital: "H0001", 
+        sala: ["102"],
+        turno: "M",
+        salario: 1660
+    }
+},
+{
+    _id: "43672995B",
+    especialidad: "Oncólogo",
+    nombre: {
+        pila: "Antón", 
+        apellidos: ["Márquez","López"] 
+    },
+    trabajo: {
+        alta: ISODate("1990-01-01T00:00:00Z"), 
+        hospital: "H0002", 
+        sala: ["101","102"],
+        turno: "M",
+        salario: 2800
+    }
+},
+{
+    _id: "65566785G",
+    especialidad: "Oncóloga",
+    nombre: {
+        pila: "Martina", 
+        apellidos: ["Blanco","Ara"] 
+    },
+    turno: "M",
+    salario: 2800,
+    trabajo: {
+        alta: ISODate("1990-04-01T00:00:00Z"), 
+        hospital: "H0001", 
+        sala: ["301"],
+        turno: "M",
+        salario: 2800
+    }
+},
+{
+    _id: "40987065J",
+    especialidad: "Enfermera",
+    nombre: {
+        pila: "Mara", 
+        apellidos:["López","Verdú"] 
+    },
+    trabajo: {
+        alta: ISODate("1988-03-01T00:00:00Z"), 
+        hospital: "H0001", 
+        sala: ["301","101"],
+        turno: "T",
+        salario: 2000
+    }
+},
+{
+    _id: "91213649H",
+    especialidad: "Enfermera",
+    nombre: {
+        pila: "Sonia", 
+        apellidos: ["García","Báez"] 
+    },
+    trabajo: {
+        alta: ISODate("1975-03-01T00:00:00Z"), 
+        hospital: "H0003", 
+        sala: ["101","102"],
+        turno: "M",
+        salario: 1950
+    }
+},
+{
+    _id: "69283498J",
+    especialidad: "Enfermera",
+    nombre: {
+        pila: "Sara", 
+        apellidos:["García","Páez"] 
+    },
+    trabajo: {
+        alta: ISODate("1979-01-01T00:00:00Z"), 
+        hospital: "H0003", 
+        sala: ["101","102"],
+        turno: "T",
+        salario: 1773
+    }
+},
+{
+    _id: "55486320Q",
+    especialidad: "Oncólogo",
+    nombre: {
+        pila:"Markus", 
+        apellidos:["López","Arias"] 
+    },
+    trabajo: {
+        alta: ISODate("1999-09-01T00:00:00Z"), 
+        hospital: "H0002", 
+        sala: ["101"],
+        turno: "M",
+        salario: 2500
+    }
+},
+{
+    _id: "54256678K",
+    especialidad: "Cirujana",
+    nombre: {
+        pila: "Maite", 
+        apellidos:["Pereira","López"] 
+    },
+    trabajo: {
+        alta: ISODate("2000-01-01T00:00:00Z"), 
+        hospital: "H0002", 
+        sala: ["102"],
+        turno: "M",
+        salario: 2670
+    }
+},
+{
+    _id: "37456354V",
+    especialidad: "Enfermero",
+    nombre: {
+        pila:"Lorenzo", 
+        apellidos:["Ruiz","Pérez"] 
+    },
+    trabajo: {
+        alta: ISODate("2000-12-01T00:00:00Z"), 
+        hospital: "H0002", 
+        sala: ["101","102","103"],
+        turno: "T",
+        salario: 1997
+    }
+}]

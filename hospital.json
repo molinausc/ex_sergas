@@ -1,0 +1,55 @@
+[{
+    _id: "H0001",
+    nombre: "Lucus Augusti",
+    direccion: {
+        calle: "Dr. Ulises Romero", 
+        numero: 1, 
+        cp: "27003", 
+        ciudad: "Lugo", 
+        provincia: "Lugo", 
+        telefono: "982296000"
+    },  
+    salas: [
+        {numero: "101",nombre: "Cirugía", planta: 1},
+        {numero: "102",nombre: "UCI", planta: 1},
+        {numero: "201",nombre: "Post Operatorio", planta: 2},
+        {numero: "202",nombre: "Lactancia", planta: 1},
+        {numero: "301",nombre: "Oncología", planta: 3}
+    ]
+},
+{
+    _id: "H0002",
+    nombre: "Ribera Polusa",
+    direccion: {
+        calle: "Iglesias Otero", 
+        cp: "27004", 
+        ciudad: "Lugo", 
+        provincia: "Lugo", 
+        telefono: "982222854"
+    },
+    salas: [
+        {numero: "101",nombre: "Oncología", planta: 1},
+        {numero: "102",nombre: "Cirugía", planta: 1},
+        {numero: "103",nombre: "UCI", planta: 1},
+        {numero: "201",nombre: "Pediatría", planta: 2}
+    ]
+},
+{
+    _id: "H0003",
+    nombre: "Complexo Hospitalario Unicersitario de  Ourense",
+    direccion: {
+        calle: "Ramon Puga", 
+        numero: 54, 
+        cp: "32005", 
+        ciudad: "Ourense", 
+        provincia: "Ourense", 
+        telefono: "982222854"
+    },
+    salas: [
+        {numero: "101",nombre: "Cirugía", planta: 1},
+        {numero: "102",nombre: "UCC", planta: 1},
+        {numero: "201",nombre: "COVID", planta: 2},
+        {numero: "202",nombre: "COVID", planta: 1},
+        {numero: "203",nombre: "COVID", planta: 1}
+    ]
+}]

@@ -1,0 +1,260 @@
+[{
+    _id: "1111",
+    nombre: {
+        pila:"Luis", 
+        apellidos:["Fragua","Lloris"] 
+    },
+    direccion: {
+        calle: "Magoi", 
+        portal:18, 
+        piso: "4A", 
+        ciudad:"Lugo" 
+    },
+    edad: 45,
+    sexo: "H",
+    hospitalizacion: [{
+        _id:"H0001", 
+        ingreso: {
+            fechaIngreso: ISODate("2021-01-01T00:00:00Z"),
+            fechaAlta: ISODate("2021-01-07T00:00:00Z"),
+            medico: ["43122456H","42453245O"],
+            sala: ["101"] 
+        }
+    }]
+},{
+    _id: "1312",
+    nombre: {
+        pila: "María", 
+        apellidos:["Montes","López"] 
+    },
+    direccion: {
+        calle: "Rio Eo", 
+        portal:22, 
+        piso: "5D", 
+        ciudad:"Lugo" 
+    },
+    edad: 71,
+    sexo: "M",
+    hospitalizacion: [{
+        _id:"H0001", 
+        ingreso: {
+            fechaIngreso: ISODate("2021-01-10T00:00:00Z"),
+            fechaAlta: ISODate("2021-01-10T00:00:00Z"),
+            medico: ["65566785G","42453245O"],
+            sala: ["301"] 
+        }
+    },
+    {
+        _id: "H0002", 
+        ingreso: {
+            fechaIngreso: ISODate("2021-01-10T00:00:00Z"),
+            fechaAlta: ISODate("2021-01-10T00:00:00Z"),
+            medico: ["43672995B"],
+            sala: ["101"] 
+        }
+    }]
+},
+{
+    _id: "1452",
+    nombre: {
+        pila: "Antonio", 
+        apellidos: ["Pérez","Pérez"] 
+    },
+    direccion: {
+        calle: "Conde", 
+        portal: 53, piso: "1A", 
+        ciudad: "Lugo" 
+    },
+    edad: 66,
+    sexo: "H",
+    hospitalizacion: [{
+        _id: "H0001", 
+        ingreso: {
+            fechaIngreso: ISODate("2021-01-11T00:00:00Z"),
+            fechaAlta: ISODate("2021-01-20T00:00:00Z"),
+            medico: ["42453245O"],
+            sala: ["101"] 
+        }
+    }]
+},
+{
+    _id: "2135",
+    nombre: {
+        pila: "Juan", 
+        apellidos: ["Gálvez","García"] },
+    direccion: {
+        calle: "Muro", 
+        portal:101, 
+        piso: "1A", 
+        ciudad:"Lugo" 
+    },
+    edad: 53,
+    sexo: "H",
+    hospitalizacion: [{
+        _id:"H0001", 
+        ingreso: {
+            fechaIngreso: ISODate("2021-01-12T00:00:00Z"),
+            fechaAlta: ISODate("2022-01-01T00:00:00Z"),
+            medico: ["73485699J"],
+            sala: ["201"] 
+        }
+    }]
+},
+{
+    _id: "4565",
+    nombre: {
+        pila:"Ana", 
+        apellidos: ["Blanco","Blanco"] },
+    direccion: {
+        calle: "Prado", 
+        portal:45, 
+        piso: "1A", 
+        ciudad:"Lugo" 
+    },
+    edad: 68,
+    sexo: "M",
+    hospitalizacion: [{
+        _id:"H0001", 
+        ingreso: {
+            fechaIngreso: ISODate("2021-01-12T00:00:00Z"),
+            fechaAlta: ISODate("2021-01-25T00:00:00Z"),
+            medico: ["40987065J"],
+            sala: ["301"] 
+        }
+    },
+    {
+        _id:"H0002", 
+        ingreso: {
+            fechaIngreso: ISODate("2011-09-21T00:00:00Z"),
+            fechaAlta: ISODate("2011-10-01T00:00:00Z"),
+            medico: ["37456354V"],
+            sala: ["103"] 
+        }
+    }]
+},
+{
+    _id:"4655",
+    nombre: {
+        pila: "Sara", 
+        apellidos: ["Rubio","Jérez"] 
+    },
+    direccion: {
+        calle: "Peto", 
+        portal:22, 
+        piso: "6A", 
+        ciudad:"Lugo" 
+    },
+    edad: 21,
+    sexo: "M",
+    hospitalizacion: [{
+        _id: "H0001", 
+        ingreso: {
+            fechaIngreso: ISODate("2021-01-21T00:00:00Z"),
+            fechaAlta: ISODate("2021-02-05T00:00:00Z"),
+            medico: ["45328445J","45235687G"],
+            sala: ["202"] 
+        }
+    },
+    {
+        _id: "H0002", 
+        ingreso: {
+            fechaIngreso: ISODate("2021-10-12T00:00:00Z"),
+            fechaAlta: ISODate("2021-10-15T00:00:00Z"),
+            medico: ["55411786H"],
+            sala: ["201"] 
+        }
+    }]
+},
+{
+    _id: "4112",
+    nombre: {
+        pila:"Inés", 
+        apellidos: ["Pastor","Pintor"] },
+    direccion: {
+        calle: "Pombo", 
+        portal:11, 
+        piso: "1F", 
+        ciudad:"Lugo" 
+    },
+    edad: 23,
+    sexo: "M",
+    hospitalizacion: [{
+        _id:"H0002", 
+        ingreso: {
+            fechaIngreso: ISODate("2022-01-11T00:00:00Z"),
+            fechaAlta: ISODate("2022-01-21T00:00:00Z"),
+            medico: ["34784143J"],
+            sala: ["201"] 
+        }
+    }]
+},
+{
+    _id: "0216",
+    nombre: {
+        pila: "Julia", 
+        apellidos: ["Otero","Otero"] },
+    direccion: {
+        calle: "Rea", 
+        portal:12, 
+        piso: "3B", 
+        ciudad:"Ourense" 
+    },
+    edad: 42,
+    sexo: "M",
+    hospitalizacion: [{
+        _id: "H0003", 
+        ingreso: {
+            fechaIngreso: ISODate("2021-12-11T00:00:00Z"),
+            fechaAlta: ISODate("2021-12-28T00:00:00Z"),
+            medico: ["91213649H"],
+            sala: ["102"] 
+        }
+    }]
+},
+{
+    _id: "8436",
+    nombre: {
+        pila: "Jaime", 
+        apellidos: ["López","Otero"] 
+    },
+    direccion: {
+        calle: "Lis", 
+        portal:22, 
+        piso: "1A", 
+        ciudad:"Ourense" 
+    },
+    edad: 20,
+    sexo: "M",
+    hospitalizacion: [{
+        _id: "H0003", 
+        ingreso: {
+            fechaIngreso: ISODate("2022-01-11T00:00:00Z"),
+            fechaAlta: ISODate("2022-01-21T00:00:00Z"),
+            medico: ["45235687G"],
+            sala: ["201"] 
+        }
+    }]
+},
+{
+    _id: "9571",
+    nombre: {
+        pila: "Julio", 
+        apellidos: ["Rivas","López"] },
+    direccion: {
+        calle: "Ara", 
+        portal:38, 
+        piso: "1G", 
+        ciudad:"Ourense" 
+    },
+    edad: 18,
+    sexo: "H",
+    hospitalizacion: [{
+        _id:"H0003", 
+        ingreso: {
+            fechaIngreso: ISODate("2020-11-21T00:00:00Z"),
+            fechaAlta: ISODate("2020-12-15T00:00:00Z"),
+            medico: ["91122154Y"],
+            sala: ["203"] 
+        }
+    }]
+}]
